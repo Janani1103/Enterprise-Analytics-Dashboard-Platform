@@ -1,3 +1,12 @@
+## Dashboard Preview
+
+![Landing Page](assets\landing.jpeg)
+![Login Page](assets\login.jpeg)
+![Sales Dashboard](assets\sales.jpeg)
+![Marketing Dashboard](assets\marketing.jpeg)
+![Finance Dashboard](assets\finance.jpeg)
+![Operations Dashboard](assets\operations.jpeg)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
